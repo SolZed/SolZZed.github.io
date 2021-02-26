@@ -1,0 +1,58 @@
+/*
+ALLAITH BITAR DESIGN
+*/
+html {
+  scroll-behavior: smooth;
+}
+body{
+  background: linear-gradient(45deg, #222831,#393e46);
+
+}
+.body p,lead{
+  color: #eeeeee !important;
+}
+.MainHead{
+	background-image: url("../imgs/HEADERBG.jpg") ;
+	background-size: cover;
+	background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    height: 100vh;
+    color: white;
+    padding: 0px !important;
+}
+.overlayy{
+	background-color: rgba(0,0,0,0.4);
+	  height: inherit;
+
+}
+
+nav a{
+	color: white !important;
+	  border-radius: 10px;
+}
+
+nav a:hover{
+  background-color : rgba(0,0,0,0.4);
+
+  transition-duration: 1s;
+}
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: rgba(255, 255, 255, 0.075) !important;
+    border: 1px solid #ff000000;
+    border-radius: .25rem;
+}
+  
+
+h1{
+  color: #eeeeee !important;
+}
+div{
+  color: #eeeeee !important;
+}
+
+.WHOLEFOOTER{
+  background-color:#393e46;
+}
