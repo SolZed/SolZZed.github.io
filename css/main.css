@@ -7,6 +7,7 @@ html {
 body{
   background: linear-gradient(45deg, #222831,#393e46);
 
+
 }
 .body p,lead{
   color: #eeeeee !important;
@@ -16,7 +17,7 @@ body{
 	background-size: cover;
 	background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    height: 100vh;
+    height: 75vh;
     color: white;
     padding: 0px !important;
 }
